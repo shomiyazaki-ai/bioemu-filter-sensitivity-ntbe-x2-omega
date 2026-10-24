@@ -1,0 +1,34 @@
+{
+  "schema": "NTBE-X2-omega-primary-v1",
+  "analysis_scope": "FULL",
+  "full_primary_complete": true,
+  "cutoff_deg": 30.0,
+  "unknown_rule": "keep if no observed twist",
+  "system_selected": 154,
+  "system_pass": 154,
+  "system_fail": 0,
+  "pair_total": 112,
+  "pair_computable": 112,
+  "frames_B0": 298188,
+  "frames_Bomega": 272381,
+  "omega_removed": 25807,
+  "unknown_frames": 0,
+  "near_boundary_frames": 292,
+  "D_summary": {
+    "n": 112,
+    "median": 0.0008451030857199449,
+    "q25": -0.03700047418410257,
+    "q75": 0.08726970615961333,
+    "max_abs": 0.4868199119222134
+  },
+  "abs_D_ge_0p1": 40,
+  "mae_B0": 0.696141628039699,
+  "mae_Bomega": 0.7076810016091942,
+  "seconds": 25.04,
+  "notes": [
+    "Experimental error comparison is descriptive only.",
+    "No system selection for favorable outcomes.",
+    "XTC byte hash plus baseline count/energy checked; source-independent trajectory recalculation not claimed.",
+    "Shared WT pairs are dependent; do not treat 112 pairs as independent replicates."
+  ]
+}
