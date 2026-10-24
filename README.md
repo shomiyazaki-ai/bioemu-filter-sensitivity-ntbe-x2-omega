@@ -1,11 +1,11 @@
 # Sensitivity of BioEmu Stability Benchmark Estimates to Sequential Post-hoc Structural Filtering
 
-**Publication preparation: not yet deposited.** One GitHub repository and one manually deposited Zenodo Technical Note are planned. No DOI is assigned yet.
+**Published technical note, version 1.0.0.** Zenodo DOI: [10.5281/zenodo.23615869](https://doi.org/10.5281/zenodo.23615869). This repository provides the browsable accompanying materials; the citable fixed archive is hosted on Zenodo.
 
 - Author: Sho Miyazaki (Independent researcher, Tokyo, Japan)
 - Technical Note: `manuscript/Technical_Note.pdf`
 - Supplementary Information: `supplement/Supplementary_Information.pdf`
-- Full archived research outputs and large files: Zenodo `Supporting_Data_and_Code_v1.0.0.zip` (DOI to be assigned)
+- Full archived research outputs and large files: Zenodo [Supporting_Data_and_Code_v1.0.0.zip](https://doi.org/10.5281/zenodo.23615869)
 - Scientific methods, analysis scope and limitations: see Technical Note and SI.
 - License scope: original author-created manuscripts/figures CC BY 4.0, eligible original author code MIT; third-party assets retain their respective upstream terms. See license directory.
 - Research STOP maintained. Archived interventions are not a newly certified full replay.
@@ -16,7 +16,7 @@ Complete A/B0/Bω system and 112-pair CSV summaries are in `data/` and `suppleme
 
 ## Citation and release notes
 
-`CITATION.cff` contains the author and title but no speculative DOI. After Zenodo publication, update the DOI and public URLs. Zenodo GitHub automatic archiving should remain disabled to prevent duplicate records.
+Cite version 1.0.0 via [10.5281/zenodo.23615869](https://doi.org/10.5281/zenodo.23615869). See `CITATION.cff`. Zenodo GitHub automatic archiving remains disabled to prevent duplicate records.
 
 ## Historical authoring README
 
