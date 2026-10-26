@@ -1,6 +1,6 @@
-# v1.1.0 release completion gate — NOT YET PUBLISHED
+# v1.1.0 publication completion gate — immutable release-ready snapshot
 
-This package is a **release-preparation artifact**, not an issued version. Its science, code and tables remain the author-approved rc1 output. **Do not publish without closing each gate and regenerating both packages and manifests.**
+This package is a **release-ready snapshot**, not proof that publication has occurred. Its science, code and tables remain the author-approved rc1 output. **Do not publish without closing each gate and regenerating both packages and manifests.**
 
 ## Required before GitHub/Zenodo public release
 

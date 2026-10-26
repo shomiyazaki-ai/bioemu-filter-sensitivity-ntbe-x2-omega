@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "v1.1.0 is an unpublished Zenodo new-version draft with reserved DOI 10.5281/zenodo.23660292. The DOI will be registered on publication. Until then cite published v1.0.0."
+message: "v1.1.0 report DOI 10.5281/zenodo.23660292 was reserved before publication. Verify DOI resolution before citation; if unpublished, cite v1.0.0."
 title: "NT-BE / X2-omega: sequential screening sensitivity in a fixed BioEmu benchmark"
 type: software
 version: 1.1.0
@@ -8,7 +8,7 @@ authors:
     given-names: Sho
     affiliation: "Independent researcher, Tokyo, Japan"
 repository-code: "https://github.com/shomiyazaki-ai/bioemu-filter-sensitivity-ntbe-x2-omega"
-abstract: "Reproducibility and editorial revision of a fixed BioEmu benchmark sensitivity record. The v1.1.0 DOI has been reserved but the record remains unpublished; per-file rights differ."
+abstract: "Reproducibility and editorial revision of a fixed BioEmu benchmark sensitivity record. The v1.1.0 DOI was reserved for this release; verify its live publication status. Per-file rights differ."
 preferred-citation:
   type: report
   authors:

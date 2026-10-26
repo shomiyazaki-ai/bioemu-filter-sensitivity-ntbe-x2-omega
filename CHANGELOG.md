@@ -1,8 +1,8 @@
 # Change log
 
-## 1.1.0 - release metadata prepared 26 October 2026 (NOT PUBLISHED)
+## 1.1.0 - release-ready snapshot prepared 26 October 2026 (publication pending)
 
-Status: Zenodo new-version Draft created and version DOI `10.5281/zenodo.23660292` reserved (author-reported); **not yet published or registered**. Awaiting GitHub commit/tag, publication date, and final author rights/declarations clearance. The technical content below originated in the accepted v1.1.0-rc1 candidate; this entry does not certify publication.
+Status: Zenodo new-version Draft created and version DOI `10.5281/zenodo.23660292` reserved (author-reported); **not yet published or registered**. GitHub commit/tag and publication date will be recorded as real identifiers outside the immutable tagged tree; final author rights/declarations clearance remains a prepublication gate. The technical content below originated in the accepted v1.1.0-rc1 candidate; this entry does not certify publication.
 
 Rewrites the English Technical Note and SI around one primary sensitivity question and a distinct secondary reference-error analysis. Makes FNC, soft foldedness, the clipped 295-K transform, paired sign and AE/MAE explicit. Reports both sequential edges and cumulative system/pair changes without basing the conclusion on a descriptive 0.1 cutoff. Updates Figure 1 retention/denominators and Figure 2 signed axes/quadrants, while preserving their bar/scatter formats.
 

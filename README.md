@@ -1,6 +1,6 @@
 # NT-BE / X2-ω: sequential screening sensitivity in a fixed BioEmu benchmark
 
-**v1.1.0 staged release candidate (not yet published), prepared 26 October 2026.** It preserves the scientific results of [published v1.0.0](https://doi.org/10.5281/zenodo.23615869). The version-specific Zenodo DOI **10.5281/zenodo.23660292** has been reserved by the author in the unpublished new-version Draft; GitHub release commit and tag must still be verified at publication; this package does **not** represent an already published v1.1.0. The previously observed public baseline commit was `7681674d5ec80545239e80214de1bd164c07eff8`, **not** the new release commit. See [release completion checklist](RELEASE_METADATA_PENDING.md).
+**Version 1.1.0 release-ready snapshot, prepared 26 October 2026; Zenodo publication pending.** It preserves the scientific results of [published v1.0.0](https://doi.org/10.5281/zenodo.23615869). The version-specific Zenodo DOI **10.5281/zenodo.23660292** has been reserved by the author in the unpublished new-version Draft; GitHub release commit and tag are recorded externally after they exist; this snapshot alone does **not** establish publication of v1.1.0. The previously observed public baseline commit was `7681674d5ec80545239e80214de1bd164c07eff8`, **not** the new release commit. See [release completion checklist](RELEASE_METADATA_PENDING.md).
 
 ## Read the study
 

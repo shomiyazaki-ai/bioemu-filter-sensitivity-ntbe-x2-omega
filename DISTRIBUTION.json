@@ -1,14 +1,15 @@
 {
   "kind": "github_staging_without_large_npz",
   "npz_included": false,
-  "status": "NEW_VERSION_DRAFT_UNPUBLISHED__GIT_IDENTIFIERS_PENDING",
+  "status": "RELEASE_READY_SNAPSHOT__PUBLICATION_NOT_ESTABLISHED",
   "manifest_rules": "FILE_MANIFEST.csv excludes itself and SHA256SUMS.txt; SHA256SUMS includes the CSV manifest and every other file except itself; archive hashes supplied externally.",
   "target_version": "1.1.0",
-  "package_stage": "ZENODO_VERSION_DOI_RESERVED__UNPUBLISHED",
+  "package_stage": "RELEASE_READY_SNAPSHOT__PUBLICATION_NOT_ESTABLISHED",
   "published_version_doi": null,
   "release_commit_sha": null,
   "release_tag": null,
   "release_metadata_checklist": "RELEASE_METADATA_PENDING.md",
   "reserved_version_doi": "10.5281/zenodo.23660292",
-  "new_version_draft": "created (author-reported)"
+  "new_version_draft": "created (author-reported)",
+  "release_identifiers_recorded_externally": true
 }
