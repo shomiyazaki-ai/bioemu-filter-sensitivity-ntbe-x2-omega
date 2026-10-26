@@ -4,7 +4,7 @@ Sho Miyazaki
 
 Independent researcher, Tokyo, Japan
 
-26 October 2026 | Version 1.1.0-rc1 | Unpublished revision candidate
+26 October 2026 | Version 1.1.0
 
 ## Abstract
 
@@ -116,11 +116,11 @@ Sequential geometry and peptide-ω screening of this fixed ensemble changes FNC-
 
 ## 7. Data and code availability
 
-The original published version is https://doi.org/10.5281/zenodo.23615869. The maintained repository is https://github.com/shomiyazaki-ai/bioemu-filter-sensitivity-ntbe-x2-omega. This unpublished revision candidate has no new DOI, public tag or public commit. The candidate package preserves original outputs and code, includes the saved 154-member NPZ and official metadata, and adds editable manuscripts, figure sources, independent verification code, full comparison outputs and manifests. README.md gives the tested V0-V2 route and the separate, coordinate-dependent V3 route. SI S8 distinguishes executed work from inherited records. Upstream code/data remain available from [3].
+The original published version is https://doi.org/10.5281/zenodo.23615869. The maintained repository is https://github.com/shomiyazaki-ai/bioemu-filter-sensitivity-ntbe-x2-omega. Version 1.1.0 has the reserved Zenodo version DOI https://doi.org/10.5281/zenodo.23660292 and its GitHub release tag v1.1.0 points to commit 847381760709a9b4ff2e3d79d3fa7f37d91223b5. Zenodo publication status must be verified separately. The version 1.1.0 archive preserves original outputs and code, includes the saved 154-member NPZ and official metadata, and adds editable manuscripts, figure sources, independent verification code, full comparison outputs and manifests. README.md gives the tested V0-V2 route and the separate, coordinate-dependent V3 route. SI S8 distinguishes executed work from inherited records. Upstream code/data remain available from [3].
 
 ## 8. Declarations
 
-Funding: no external funding for these independent analyses. Competing interests: none declared. Affiliation: Independent researcher, Tokyo, Japan. BioEmu and benchmark contributors are credited through [1,3]; upstream experimental data through [4]. ChatGPT assisted with planning, code and data checks, manuscript and figure preparation, and QC; the author directed the research and is responsible for scientific interpretation and release. P3 is a structured self-review within the same Work, not a separate human or model audit. Original text/figures retain CC BY 4.0 and eligible author-owned code MIT; third-party materials retain the separate notices in licenses/. These declarations carry forward the published author's statements for review before any release.
+Funding: no external funding for these independent analyses. Competing interests: none declared. Affiliation: Independent researcher, Tokyo, Japan. BioEmu and benchmark contributors are credited through [1,3]; upstream experimental data through [4]. ChatGPT assisted with planning, code and data checks, manuscript and figure preparation, and QC; the author directed the research and is responsible for scientific interpretation and release. P3 is a structured self-review within the same Work, not a separate human or model audit. Original text/figures retain CC BY 4.0 and eligible author-owned code MIT; third-party materials retain the separate notices in licenses/. These declarations carry forward the author-reviewed statements; legal applicability of third-party notices remains source-specific.
 
 ## References
 

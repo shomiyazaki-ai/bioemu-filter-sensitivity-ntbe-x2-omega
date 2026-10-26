@@ -51,7 +51,7 @@ def equation(s):
 def footer(c,d):
     c.saveState();c.setStrokeColor(colors.HexColor('#cdd8dd'));c.setLineWidth(.4);c.line(M,38,W-M,38)
     c.setFont('Sans',7);c.setFillColor(colors.HexColor('#536672'))
-    c.drawString(M,26,'NT-BE / X2-ω | Unpublished revision candidate v1.1.0-rc1')
+    c.drawString(M,26,'NT-BE / X2-ω | Version 1.1.0')
     c.drawRightString(W-M,26,str(d.page));c.restoreState()
 
 def render(path):
@@ -60,7 +60,7 @@ def render(path):
         line=lines[i].strip()
         if not line:i+=1;continue
         if line.startswith('!['):
-            m=re.fullmatch(r'!\[([^\]]*)\]\(([^)]+)\)',line);p=ROOT/m[2];im=PILImage.open(p);w,h=im.size
+            m=re.fullmatch(r'!\[([^\]]*)\]\(([^)]+)\)',line);p=(path.parent/m[2]).resolve();im=PILImage.open(p);w,h=im.size
             cap=[];i+=1
             while i<len(lines) and not lines[i].strip():i+=1
             if i<len(lines) and lines[i].startswith('**Figure '):

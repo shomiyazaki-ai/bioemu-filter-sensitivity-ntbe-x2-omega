@@ -6,7 +6,7 @@ Sho Miyazaki
 
 Independent researcher, Tokyo, Japan
 
-26 October 2026 | Version 1.1.0-rc1 | Unpublished revision candidate
+26 October 2026 | Version 1.1.0
 
 This supplement connects methods, sources, computation, results and verification. The historical CSVs and NPZs remain unchanged. Full new replay tables are verification outputs, not replacements for the fixed research data. No new sampling, threshold optimization, uncertainty estimation or statistical test is introduced.
 
@@ -25,7 +25,7 @@ Experimental ΔΔG values come from the official `ddg_exp` column, in kcal/mol w
 | Original research publication | Zenodo 23615869, v1.0.0, 24 October 2026 | Unchanged primary CSVs, 154-member NPZ, historical documents |
 | Current study repository | Read at commit 7681674d5ec80545239e80214de1bd164c07eff8 | Current published reader guidance and frozen output comparison |
 | L1/L2 | Executed on 26 October 2026, subsequent to original publication | Historical source-coordinate verification records |
-| This candidate | v1.1.0-rc1, unpublished | New arithmetic verifier, editorial revision and self-QC |
+| Version 1.1.0 release | GitHub tag v1.1.0; Zenodo version DOI 10.5281/zenodo.23660292 (registration pending publication) | New arithmetic verifier, editorial revision and self-QC |
 
 The two supplied Primary ZIPs differ. The complete code ZIP has SHA-256 a543c6d46c9a820f0407c13a3fb8f1fb71fb4702e2341be6b50e99c28ae7be6e; the other ZIP is a different container with compiled cache members and fewer source files. Names or download suffixes are not identity evidence. The NPZ ZIP is byte-identical to the v1.0.0 publication (SHA-256 569a09744787d2c6c9b35e9e0cc80ce2ef4dd40d6a3f494cd45fe33bed8584b7). Archive ZIP comments provide no authenticated upstream commit; archived bytes define the official version used here.
 
