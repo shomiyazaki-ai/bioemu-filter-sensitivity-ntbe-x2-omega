@@ -1,0 +1,30 @@
+[
+  {
+    "file": "comparison_details.csv",
+    "equal": true
+  },
+  {
+    "file": "pairs_recomputed.csv",
+    "equal": true
+  },
+  {
+    "file": "classification_diagnostics.csv",
+    "equal": true
+  },
+  {
+    "file": "npz_member_manifest.csv",
+    "equal": true
+  },
+  {
+    "file": "summary.json",
+    "equal": true
+  },
+  {
+    "file": "nonlinear_intervals.csv",
+    "equal": true
+  },
+  {
+    "file": "systems_recomputed.csv",
+    "equal": true
+  }
+]

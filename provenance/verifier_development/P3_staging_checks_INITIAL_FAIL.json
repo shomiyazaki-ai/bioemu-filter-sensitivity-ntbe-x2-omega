@@ -1,0 +1,376 @@
+{
+  "status": "FAIL",
+  "scope": "P3 same-Work structured self-review; visual review reported separately",
+  "checks": [
+    {
+      "check": "V0-V2 complete PASS",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "every stored comparison passes",
+      "pass_": true,
+      "detail": 6726
+    },
+    {
+      "check": "systems_recomputed.csv exact unique coverage",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "pairs_recomputed.csv exact unique coverage",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "nonlinear_intervals.csv row count",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "classification_diagnostics.csv row count",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "npz_member_manifest.csv row count",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "nonlinear intervals independently pass",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "note all three MAE display values",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "note all three MAE changes",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "note paired baseline wording",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "note 0.1 descriptive, primary separate",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "note source-coordinate limitation",
+      "pass_": false,
+      "detail": null
+    },
+    {
+      "check": "note no replacement DOI claim",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "si all three MAE display values",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "si all three MAE changes",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "si paired baseline wording",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "si 0.1 descriptive, primary separate",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "si source-coordinate limitation",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "si no replacement DOI claim",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_B0: p display -0.000798",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_B0: p display +0.002133",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_B0: p display +0.069137",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_B0: dg display -0.769489",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_B0: dg display -0.057312",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_B0: dg display +0.024709",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_B0: ddg display -0.575240",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_B0: ddg display +0.000966",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_B0: ddg display +0.338207",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "B0_to_Bomega: p display -0.011552",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "B0_to_Bomega: p display +0.001850",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "B0_to_Bomega: p display +0.045725",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "B0_to_Bomega: dg display -0.570955",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "B0_to_Bomega: dg display -0.059560",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "B0_to_Bomega: dg display +0.130724",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "B0_to_Bomega: ddg display -0.486820",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "B0_to_Bomega: ddg display +0.000845",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "B0_to_Bomega: ddg display +0.408504",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_Bomega: p display -0.000855",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_Bomega: p display +0.004721",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_Bomega: p display +0.108705",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_Bomega: dg display -1.009330",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_Bomega: dg display -0.128354",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_Bomega: dg display +0.059266",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_Bomega: ddg display -0.945805",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_Bomega: ddg display +0.005979",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "A_to_Bomega: ddg display +0.469252",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Technical_Note_v1.1.0_rc1.pdf pages nonempty",
+      "pass_": true,
+      "detail": 7
+    },
+    {
+      "check": "Technical_Note_v1.1.0_rc1.pdf text glyphs",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Technical_Note_v1.1.0_rc1.pdf link punctuation https://doi.org/10.5281/zenodo.23615869",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Technical_Note_v1.1.0_rc1.pdf link punctuation https://github.com/shomiyazaki-ai/bioemu-filter-sensitivity-ntbe-x2-omega",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Technical_Note_v1.1.0_rc1.pdf link punctuation https://doi.org/10.1126/science.adv9817",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Technical_Note_v1.1.0_rc1.pdf link punctuation https://doi.org/10.1002/pro.3330",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Technical_Note_v1.1.0_rc1.pdf link punctuation https://doi.org/10.5281/zenodo.15672282",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Technical_Note_v1.1.0_rc1.pdf link punctuation https://github.com/microsoft/bioemu-benchmarks",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Technical_Note_v1.1.0_rc1.pdf link punctuation https://github.com/microsoft/bioemu",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Technical_Note_v1.1.0_rc1.pdf link punctuation https://doi.org/10.1038/s41586-023-06328-6",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Supplementary_Information_v1.1.0_rc1.pdf pages nonempty",
+      "pass_": true,
+      "detail": 7
+    },
+    {
+      "check": "Supplementary_Information_v1.1.0_rc1.pdf text glyphs",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Supplementary_Information_v1.1.0_rc1.pdf link punctuation https://doi.org/10.1126/science.adv9817",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Supplementary_Information_v1.1.0_rc1.pdf link punctuation https://doi.org/10.1002/pro.3330",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Supplementary_Information_v1.1.0_rc1.pdf link punctuation https://doi.org/10.5281/zenodo.15672282",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Supplementary_Information_v1.1.0_rc1.pdf link punctuation https://github.com/microsoft/bioemu-benchmarks",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Supplementary_Information_v1.1.0_rc1.pdf link punctuation https://github.com/microsoft/bioemu",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "Supplementary_Information_v1.1.0_rc1.pdf link punctuation https://doi.org/10.1038/s41586-023-06328-6",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "check": "PDF text within page margins",
+      "pass_": true,
+      "detail": []
+    },
+    {
+      "check": "README local links resolve",
+      "pass_": false,
+      "detail": [
+        "provenance/P2_Production_Report_JA.md",
+        "provenance/P3_Independent_QC_Report_JA.md"
+      ]
+    },
+    {
+      "check": "no fabricated candidate public identity",
+      "pass_": true,
+      "detail": null
+    }
+  ],
+  "failures": [
+    {
+      "check": "note source-coordinate limitation",
+      "pass_": false,
+      "detail": null
+    },
+    {
+      "check": "README local links resolve",
+      "pass_": false,
+      "detail": [
+        "provenance/P2_Production_Report_JA.md",
+        "provenance/P3_Independent_QC_Report_JA.md"
+      ]
+    }
+  ],
+  "pdfs": [
+    {
+      "file": "Technical_Note_v1.1.0_rc1.pdf",
+      "pages": 7,
+      "sha256": "b0242e1a0ae3c3fe1ef238ef18515e6ff6d0043d5d1adf5cb626fa0c723973ec"
+    },
+    {
+      "file": "Supplementary_Information_v1.1.0_rc1.pdf",
+      "pages": 7,
+      "sha256": "a3da65a4aea7c09448992f173090ea2337f6ffa99342519a2b34b50f41f0cb88"
+    }
+  ]
+}

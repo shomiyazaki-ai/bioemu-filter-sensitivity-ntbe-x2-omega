@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-24",
+  "mode": "read_only_package_QC",
+  "all_npz_sha256": "569a09744787d2c6c9b35e9e0cc80ce2ef4dd40d6a3f494cd45fe33bed8584b7",
+  "npz_members": 154,
+  "systems": 154,
+  "pairs": 112,
+  "A_frames": 302800,
+  "B0_frames": 298188,
+  "Bomega_frames": 272381,
+  "abs_D_A_B0_ge_0p1": 19,
+  "abs_D_B0_Bomega_ge_0p1": 40,
+  "intersection": 12,
+  "union": 47,
+  "cumulative_ge_0p1": 44,
+  "MAE": {
+    "A": 0.7025947855540292,
+    "B0": 0.696141628039699,
+    "Bomega": 0.7076810016091942
+  },
+  "result": "PASS",
+  "not_performed": [
+    "full 154 original-coordinate rerun",
+    "new filter settings",
+    "new science experiments"
+  ],
+  "release_status": "HUMAN_DECLARATIONS_AND_LICENSES_PENDING"
+}

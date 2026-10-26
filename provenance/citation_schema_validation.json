@@ -1,0 +1,24 @@
+{
+  "schema_url": "https://raw.githubusercontent.com/citation-file-format/citation-file-format/1.2.0/schema.json",
+  "schema_sha256": "0b8d22140da702d766df318dcff3a91af2f39521298dcf36d76315fd99cc169b",
+  "yaml_date_normalization": "ISO dates normalized to strings for JSON Schema validation",
+  "results": [
+    {
+      "file": "CITATION.cff",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "file": "CITATION_v1.1.0_rc1.cff",
+      "valid": true,
+      "errors": []
+    },
+    {
+      "file": "provenance/history/v1.0.0/CITATION.cff",
+      "valid": false,
+      "errors": [
+        "'report' is not one of ['dataset', 'software']"
+      ]
+    }
+  ]
+}

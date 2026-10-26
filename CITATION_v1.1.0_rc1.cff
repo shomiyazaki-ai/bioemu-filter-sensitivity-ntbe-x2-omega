@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Unpublished revision candidate. Cite the published scientific record using preferred-citation; do not treat this candidate as a published new version."
+title: "NT-BE / X2-omega: revision and verification compendium"
+type: software
+version: 1.1.0-rc1
+authors:
+  - family-names: Miyazaki
+    given-names: Sho
+    affiliation: "Independent researcher, Tokyo, Japan"
+repository-code: "https://github.com/shomiyazaki-ai/bioemu-filter-sensitivity-ntbe-x2-omega"
+abstract: "Unpublished integrated editorial revision and independent saved-array verification. Separate per-file licenses apply; see licenses/REVISION_LICENSE_SCOPE.md. No candidate DOI or public revision commit is assigned."
+preferred-citation:
+  type: report
+  authors:
+    - family-names: Miyazaki
+      given-names: Sho
+  title: "Sensitivity of BioEmu Stability Benchmark Estimates to Sequential Post-hoc Structural Filtering"
+  version: 1.0.0
+  year: 2026
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.23615869
+  url: "https://doi.org/10.5281/zenodo.23615869"

@@ -1,13 +1,23 @@
 cff-version: 1.2.0
-message: "If you use this archived technical note or accompanying analysis, please cite this record and its upstream sources."
-title: "Sensitivity of BioEmu Stability Benchmark Estimates to Sequential Post-hoc Structural Filtering"
-type: report
+message: "v1.1.0 is an unpublished Zenodo new-version draft with reserved DOI 10.5281/zenodo.23660292. The DOI will be registered on publication. Until then cite published v1.0.0."
+title: "NT-BE / X2-omega: sequential screening sensitivity in a fixed BioEmu benchmark"
+type: software
+version: 1.1.0
 authors:
   - family-names: Miyazaki
     given-names: Sho
     affiliation: "Independent researcher, Tokyo, Japan"
-abstract: "Author-created manuscript and figures CC BY 4.0; original owned code MIT; third-party inputs subject to separate terms. See separate licenses in the repository."
-doi: 10.5281/zenodo.23615869
-url: "https://doi.org/10.5281/zenodo.23615869"
-version: 1.0.0
-date-released: 2026-10-24
+repository-code: "https://github.com/shomiyazaki-ai/bioemu-filter-sensitivity-ntbe-x2-omega"
+abstract: "Reproducibility and editorial revision of a fixed BioEmu benchmark sensitivity record. The v1.1.0 DOI has been reserved but the record remains unpublished; per-file rights differ."
+preferred-citation:
+  type: report
+  authors:
+    - family-names: Miyazaki
+      given-names: Sho
+  title: "Sensitivity of BioEmu Stability Benchmark Estimates to Sequential Post-hoc Structural Filtering"
+  version: 1.1.0
+  year: 2026
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.23660292
+  url: "https://doi.org/10.5281/zenodo.23660292"

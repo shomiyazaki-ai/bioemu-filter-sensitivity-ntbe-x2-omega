@@ -1,0 +1,20 @@
+{
+  "target_version": "1.1.0",
+  "package_stage": "ZENODO_VERSION_DOI_RESERVED__UNPUBLISHED",
+  "scientific_results": "unchanged from v1.0.0",
+  "metadata_prepared_date_japan": "2026-10-26",
+  "published_predecessor": {
+    "version": "1.0.0",
+    "doi": "10.5281/zenodo.23615869",
+    "observed_baseline_commit": "7681674d5ec80545239e80214de1bd164c07eff8"
+  },
+  "new_version_doi": "10.5281/zenodo.23660292",
+  "new_version_doi_status": "reserved in owner-controlled new-version draft, author-reported, not publicly registered",
+  "release_commit_sha": null,
+  "release_tag": null,
+  "release_date": null,
+  "github_release_status": "not created",
+  "zenodo_new_version_status": "draft created, author-reported, unpublished",
+  "publication_operations_performed": false,
+  "blocking_checklist": "RELEASE_METADATA_PENDING.md"
+}

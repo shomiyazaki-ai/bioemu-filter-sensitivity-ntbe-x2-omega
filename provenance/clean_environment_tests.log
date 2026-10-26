@@ -1,0 +1,27 @@
+test_clipping (__main__.Controls.test_clipping) ... ok
+test_duplicate (__main__.Controls.test_duplicate) ... ok
+test_empty (__main__.Controls.test_empty) ... ok
+test_fnc_range (__main__.Controls.test_fnc_range) ... ok
+test_inf_fnc (__main__.Controls.test_inf_fnc) ... ok
+test_logit_sign (__main__.Controls.test_logit_sign) ... ok
+test_mae (__main__.Controls.test_mae) ... ok
+test_mask_shape (__main__.Controls.test_mask_shape) ... ok
+test_mask_type (__main__.Controls.test_mask_type) ... ok
+test_missing (__main__.Controls.test_missing) ... ok
+test_nan_fnc (__main__.Controls.test_nan_fnc) ... ok
+test_nested (__main__.Controls.test_nested) ... ok
+test_nonfinite_pair_mean (__main__.Controls.test_nonfinite_pair_mean) ... ok
+test_nonfinite_probability (__main__.Controls.test_nonfinite_probability) ... ok
+test_nonlinear_intervals (__main__.Controls.test_nonlinear_intervals) ... ok
+test_omega_boundary (__main__.Controls.test_omega_boundary) ... ok
+test_pair_sign_baseline (__main__.Controls.test_pair_sign_baseline) ... ok
+test_sigmoid (__main__.Controls.test_sigmoid) ... ok
+test_stage_difference (__main__.Controls.test_stage_difference) ... ok
+test_threshold_boundary (__main__.Controls.test_threshold_boundary) ... ok
+test_transform_after_average (__main__.Controls.test_transform_after_average) ... ok
+test_unknown_retained (__main__.Controls.test_unknown_retained) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.073s
+
+OK

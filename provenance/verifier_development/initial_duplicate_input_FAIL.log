@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/workspace/scratch/bf5892459b8a/output/NTBE_X2_omega_v1.1.0_rc1/verification/verify.py", line 190, in <module>
+    try:sys.exit(main(args.root.resolve(),args.out.resolve()))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/bf5892459b8a/output/NTBE_X2_omega_v1.1.0_rc1/verification/verify.py", line 52, in main
+    if sid in core:raise ValueError('duplicate original FNC member')
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: duplicate original FNC member

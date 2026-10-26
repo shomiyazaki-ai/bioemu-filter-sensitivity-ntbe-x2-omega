@@ -1,0 +1,102 @@
+[
+  {
+    "name": "N1_Session10_Research_Note(4).pdf",
+    "bytes": 216735,
+    "sha256": "84da8c13d7f16c922dc66d7cef047b00455d52679fea80087860a62b1e59349f"
+  },
+  {
+    "name": "N1_Session10_Supplementary_Information(4).pdf",
+    "bytes": 100083,
+    "sha256": "981346993eb1de10920251bf9c9ff34457729598f186c91e3408e938cb59b387"
+  },
+  {
+    "name": "NTBE_Session3_v1(3).zip",
+    "bytes": 12103,
+    "sha256": "e50ae364f3d7ba76c17025dd1f076fbce461fb4504ea620be4ba78cd789b293e"
+  },
+  {
+    "name": "NTBE_Session4_Independent_Audit(4).json",
+    "bytes": 5100,
+    "sha256": "a746979164aa1fdc74ca3401ea2f3b465e3a375adbfc7bbce19c645500716fdf"
+  },
+  {
+    "name": "NTBE_Session4_Scientific_Assessment_JA(7).md",
+    "bytes": 5066,
+    "sha256": "425c204bd75c84beba6dab5e277567c8c3ba88d3f16b89485f169a4e17b0d24c"
+  },
+  {
+    "name": "NTBE_Session_L1_Kit_2026-10-26(1).zip",
+    "bytes": 7546,
+    "sha256": "e0d18d0845ed74cc7cc862e193005c36a0955a11f0dac9c7d92fa9c236e18e79"
+  },
+  {
+    "name": "NTBE_Session_L2_Kit_2026-10-26(1).zip",
+    "bytes": 12747,
+    "sha256": "ac74add667ca013c09da191a120dce1500b68e5549c97227c679f3b5aa053101"
+  },
+  {
+    "name": "NTBE_X2_Final_Publication_Gate_2026-10-19_JA(3).md",
+    "bytes": 54366,
+    "sha256": "04317935fade3d8bf691b7241ef3a106dc78df6fa530a416862cdecfee29306e"
+  },
+  {
+    "name": "NTBE_X2_Omega_Primary_v1 (2)(1).zip",
+    "bytes": 108840,
+    "sha256": "9f9710cbc11df9be5c137039fe45e41e90ca41f4908fea81f5ee1916f931157f"
+  },
+  {
+    "name": "NTBE_X2_Omega_Primary_v1(4).zip",
+    "bytes": 73946,
+    "sha256": "a543c6d46c9a820f0407c13a3fb8f1fb71fb4702e2341be6b50e99c28ae7be6e"
+  },
+  {
+    "name": "NTBE_pairs_112_reconciled(6).csv",
+    "bytes": 21385,
+    "sha256": "30e9129d04e98d478a260a4e5d45ad561b7c05a049b0741dcbb9a0ad854315cb"
+  },
+  {
+    "name": "NTBE_systems_154_reconciled(6).csv",
+    "bytes": 125566,
+    "sha256": "df48bd55c9a30c7744503936d070cd81176fb507bb333946f6deeb79a7850369"
+  },
+  {
+    "name": "Phase1A_Final_Scientific_Audit_JA(2).md",
+    "bytes": 38681,
+    "sha256": "c416f22df92405d8de5e478ecd8ab184083a75b58a128b68ca7c80a6f866e5f6"
+  },
+  {
+    "name": "Phase1A_Independent_Preliminary_Judgment(2).md",
+    "bytes": 7142,
+    "sha256": "a13962f839442e45e1c13f8d8edebbb6ccafc0c8e88584296d56bc76b0b45f5f"
+  },
+  {
+    "name": "Phase1A_Verification_Results(2).json",
+    "bytes": 89244,
+    "sha256": "ffccb786e72ff44903674161f7c64795f7ce25ec70b35c50b70e9ad6d0a42e65"
+  },
+  {
+    "name": "Supplementary_Information(1).pdf",
+    "bytes": 251524,
+    "sha256": "b5b3051a1a1de6056bd3638935367f2804121694f6d9240c6ea9ae99f7acccca"
+  },
+  {
+    "name": "Technical_Note(1).pdf",
+    "bytes": 202680,
+    "sha256": "518b7930cd493376ed8247f96f9d73d75f64d398df4c2162d21355be4de651d5"
+  },
+  {
+    "name": "all_npz(2).zip",
+    "bytes": 51612943,
+    "sha256": "569a09744787d2c6c9b35e9e0cc80ce2ef4dd40d6a3f494cd45fe33bed8584b7"
+  },
+  {
+    "name": "bioemu-benchmarks_code_release(9).zip",
+    "bytes": 14565829,
+    "sha256": "b1ed5564f5c575069d6ce855ba47af69e6e43691a9dacffc0eaaa908c1d58e3c"
+  },
+  {
+    "name": "bioemu_code_release(8).zip",
+    "bytes": 5086701,
+    "sha256": "66748f93aa7f3c2224540423238a6c6dce43f6dca5b4871dba54f3abb9ffc888"
+  }
+]

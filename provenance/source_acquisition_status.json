@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://github.com/shomiyazaki-ai/bioemu-filter-sensitivity-ntbe-x2-omega",
+    "route": "connected GitHub",
+    "version": "7681674d5ec80545239e80214de1bd164c07eff8",
+    "status": "tree and all text source/data/provenance files obtained; historical binary assets from matching Zenodo archive"
+  },
+  {
+    "url": "https://doi.org/10.5281/zenodo.23615869",
+    "route": "Zenodo API plus direct bytes",
+    "version": "1.0.0",
+    "status": "metadata and supporting ZIP downloaded; checksum confirmed; PDFs match supplied published SHA"
+  },
+  {
+    "url": "https://github.com/shomiyazaki-ai/sampl8-pka-reference-sensitivity",
+    "route": "connected GitHub",
+    "version": "current README and tree on 2026-10-26",
+    "status": "reader guidance inspected; supplied PDFs used as editorial reference only"
+  },
+  {
+    "url": "https://doi.org/10.5281/zenodo.23112909",
+    "route": "web and Zenodo API",
+    "version": "1.0.0, published 2026-10-03",
+    "status": "metadata/files available; no scientific data reused"
+  },
+  {
+    "url": "https://github.com/microsoft/bioemu-benchmarks",
+    "route": "official web plus supplied archived release",
+    "version": "archived folding benchmark 0.1, ZIP SHA in source_manifest",
+    "status": "current repo reachable; current dependency warning observed; numerical source is archived code release"
+  },
+  {
+    "url": "https://github.com/microsoft/bioemu",
+    "route": "official web plus supplied archived release",
+    "version": "archived ZIP SHA in source_manifest",
+    "status": "reachable; current repository status is not substituted for archived code"
+  },
+  {
+    "url": "https://zenodo.org/records/15672282",
+    "route": "web/API plus supplied two code ZIPs",
+    "version": "fixed record",
+    "status": "official code ZIP sizes and MD5 match supplied bytes; coordinate ZIP size/MD5 metadata checked only; XTC archive not downloaded"
+  },
+  {
+    "url": "https://doi.org/10.1038/s41586-023-06328-6",
+    "route": "official Nature search/landing and official dataset card",
+    "version": "Nature620,434-444(2023)",
+    "status": "bibliography and attribution verified; initial DOI open encountered authentication redirect; no new experimental reanalysis"
+  }
+]

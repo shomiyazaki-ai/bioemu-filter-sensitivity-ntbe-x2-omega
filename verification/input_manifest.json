@@ -1,0 +1,167 @@
+[
+  {
+    "path": "data/inputs/L1_report.json",
+    "bytes": 9318,
+    "sha256": "543aa8b234b8c0006900315d6a867ad37d737891011265a4a69cc3cc3fe27e53"
+  },
+  {
+    "path": "data/inputs/NTBE_L2_output.zip",
+    "bytes": 171306,
+    "sha256": "89e41665e1796bfc54310adcd700186cb624e2141f520b1c26cd6bd99639c540"
+  },
+  {
+    "path": "data/inputs/NTBE_Session3_output_new.zip",
+    "bytes": 1204656,
+    "sha256": "302a9b95a1054ef3bd960c6636d420a8b20a49a9078b7480fd3d7556116efcba"
+  },
+  {
+    "path": "data/inputs/NTBE_Session3_recovery.zip",
+    "bytes": 4364,
+    "sha256": "34889cd5652441b1a8c0398d5dd2ad0e4c807d4279f8f99ce307079e76e10453"
+  },
+  {
+    "path": "data/inputs/all_npz.zip",
+    "bytes": 51612943,
+    "sha256": "569a09744787d2c6c9b35e9e0cc80ce2ef4dd40d6a3f494cd45fe33bed8584b7"
+  },
+  {
+    "path": "data/frozen/NTBE_pairs_112_reconciled.csv",
+    "bytes": 21385,
+    "sha256": "30e9129d04e98d478a260a4e5d45ad561b7c05a049b0741dcbb9a0ad854315cb"
+  },
+  {
+    "path": "data/frozen/NTBE_systems_154_reconciled.csv",
+    "bytes": 125566,
+    "sha256": "df48bd55c9a30c7744503936d070cd81176fb507bb333946f6deeb79a7850369"
+  },
+  {
+    "path": "data/frozen/Table_S2_S3_system_foldedness_dG.csv",
+    "bytes": 45062,
+    "sha256": "b7eb581b0f439ae8abeab62d4ca7c314c3b7e910bc5ef766c0b07e7dd10197c8"
+  },
+  {
+    "path": "data/frozen/Table_S4_cross_stage_112_pairs.csv",
+    "bytes": 30333,
+    "sha256": "38ee2d0a3fc5431dce1e17995c98fd45d4429bb16efc242c5b5fea2d92fb3059"
+  },
+  {
+    "path": "data/frozen/Table_S5_boundary_and_omega.csv",
+    "bytes": 15137,
+    "sha256": "c0956bd6eb8c84e501eba5a18af438a28b499418da2f992eef1e621d76556506"
+  },
+  {
+    "path": "data/frozen/pairs_omega.csv",
+    "bytes": 36623,
+    "sha256": "47d4357485edbe414fe231c23697c6f84112f3d3862f94f8471d0b62269ac26a"
+  },
+  {
+    "path": "data/frozen/report_omega.json",
+    "bytes": 1059,
+    "sha256": "50463e8504c150c2098205171ac6c75d7889a522ee0a1139dbba40511774664b"
+  },
+  {
+    "path": "data/frozen/systems_omega.csv",
+    "bytes": 137831,
+    "sha256": "70d2f09f080e1dd340497e07287fa8f6f5ab240d8c4a688ba861654eb5f6bf27"
+  },
+  {
+    "path": "sources/official/DATASET_CARD.md",
+    "bytes": 9977,
+    "sha256": "6beee9451ab8a7a2685ec3b090fd5ddd009ad0f6311bd9e17a1104474437ec4e"
+  },
+  {
+    "path": "sources/official/benchmark_README.md",
+    "bytes": 1359,
+    "sha256": "525b59dbfcd3545b14178113183f939995efee7e87ca2c0425560e229893678d"
+  },
+  {
+    "path": "sources/official/bioemu_benchmarks/eval/folding_free_energies/evaluate.py",
+    "bytes": 5721,
+    "sha256": "a50f6d9c5dd3f31ad06cc3b59a503e5ac4e9c741702ea3a16702ab2484996c17"
+  },
+  {
+    "path": "sources/official/bioemu_benchmarks/eval/folding_free_energies/fraction_native_contacts.py",
+    "bytes": 8943,
+    "sha256": "9103f3baa40cbe730dc34ad72f9c44cfb2399b2df267d1b6675f809bb376826d"
+  },
+  {
+    "path": "sources/official/bioemu_benchmarks/eval/folding_free_energies/free_energies.py",
+    "bytes": 4116,
+    "sha256": "a830fd29726ac321e6ac84437023f21e6dd9ea86a3c9620a7c824cb99e7f284c"
+  },
+  {
+    "path": "sources/official/bioemu_benchmarks/utils.py",
+    "bytes": 14413,
+    "sha256": "735a234c6cd7b08d0b0af8e276ddc87fa164d3eff0a1c95200087e8bc6c4ea28"
+  },
+  {
+    "path": "sources/official/pyproject.toml",
+    "bytes": 1462,
+    "sha256": "61bfb4a7b0a590b99f06c27afb39e492348fa50e718afc748572678d81b87092"
+  },
+  {
+    "path": "sources/official/system_info.csv",
+    "bytes": 26050,
+    "sha256": "3688a601061a778a040b7c41a607e3bbfc7f64bdc473eb6eec3c8b49323be679"
+  },
+  {
+    "path": "code/historical/ntbe_l2_verify_L2_v1_0_1.py",
+    "bytes": 12342,
+    "sha256": "9d4fafbd5aa701fd8c5fd6c906da62d80c05b1ae7e86b4386d9840a503321020"
+  },
+  {
+    "path": "code/historical/ntbe_official_filter_snapshot.py",
+    "bytes": 6007,
+    "sha256": "4c2e34bc693fab42770ee51dfd2ae6ddeabd2476d9a4e328566bbdb3d57d5ca1"
+  },
+  {
+    "path": "code/historical/ntbe_session3.py",
+    "bytes": 12126,
+    "sha256": "4e8964442902cd617ff718d4df660f389ea0c6235b947a082ea569decb5b83e9"
+  },
+  {
+    "path": "code/historical/ntbe_session3_reference_fix.py",
+    "bytes": 12305,
+    "sha256": "5c05842b8142f5ea763d728b871e6b9c757361123c0321214274d402949f3841"
+  },
+  {
+    "path": "code/historical/ntbe_x2_omega_pilot.py",
+    "bytes": 12904,
+    "sha256": "f8adab776271f671dfb2e962d103ed86fb50bfcb497ef0b0546204d2fdf207fa"
+  },
+  {
+    "path": "code/historical/ntbe_x2_primary.py",
+    "bytes": 16031,
+    "sha256": "23fe006ddce2c8629caced00bc93ac0125d1c8d71508257ab6a66bdc70d09fee"
+  },
+  {
+    "path": "code/historical/official_fnc_snapshot.py",
+    "bytes": 9054,
+    "sha256": "5dde5107ccc8d53fcce38161142f5e99a95858cd95f991525f488fc4308db144"
+  },
+  {
+    "path": "code/historical/test_integration.py",
+    "bytes": 2039,
+    "sha256": "1a2c50906fc91a02d89d490b12f8c3dd2b176fa2a40a00076b2e17db491c1d74"
+  },
+  {
+    "path": "code/historical/test_omega_pilot.py",
+    "bytes": 2115,
+    "sha256": "237b3360e1bd4cad7ee0f6f71e4bdc9b0b4a6a0ae36d7fde52b42e2e023ec3c3"
+  },
+  {
+    "path": "code/historical/test_primary.py",
+    "bytes": 2057,
+    "sha256": "d8ca51192e0e1c99af68708c9e377b969957d4ed510def42d6e281701ba20214"
+  },
+  {
+    "path": "code/historical/test_proline.py",
+    "bytes": 3063,
+    "sha256": "e5231ead991f08ef2cbfbc8fbbf5243e2fd8507b97a841e14b06a55301c7a7a3"
+  },
+  {
+    "path": "verification/acceptance_spec.json",
+    "bytes": 925,
+    "sha256": "1afb2ffa28b5250b516a63f64e8162ac1524f8ee5cc413d7ca5ffab782e0c2cf"
+  }
+]

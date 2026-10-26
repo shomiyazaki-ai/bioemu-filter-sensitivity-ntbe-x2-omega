@@ -1,0 +1,45 @@
+{
+  "scope": "Read historical coordinate output records; no raw XTC replay",
+  "reconciliation": {
+    "initial_rows": 154,
+    "initial_pass": 153,
+    "initial_failed": [
+      "1TG0__D45C_N47P"
+    ],
+    "recovery_rows": 1,
+    "recombined_unique": 154,
+    "changes_above_1e_9": [],
+    "reserialization_differences": 619,
+    "max_reserialization_difference": 4.440892098500626e-16,
+    "npz_overlap_note": "Initial-output ZIP contains 154 NPZ including the recovery ID, despite CSV recording its FAIL_QA. Recovery NPZ duplicates this member; all arrays equal. Chronology of that member alone is not proved."
+  },
+  "L2": {
+    "individual_records": 154,
+    "unique_systems": 154,
+    "pairs": 112,
+    "unique_pairs": 112,
+    "max_dg_difference_vs_independent": 6.581402089977928e-13,
+    "max_ddg_difference_vs_independent": 6.581402089977928e-13,
+    "issues": [],
+    "fingerprint": {
+      "source_zip_sha256": "81fa710c667d29f664e378e551ee1f180975a62d8e37d859646be8b2fa9469c7",
+      "benchmark_sha256": "b1ed5564f5c575069d6ce855ba47af69e6e43691a9dacffc0eaaa908c1d58e3c",
+      "all_npz_sha256": "569a09744787d2c6c9b35e9e0cc80ce2ef4dd40d6a3f494cd45fe33bed8584b7",
+      "core_csv_sha256": "df48bd55c9a30c7744503936d070cd81176fb507bb333946f6deeb79a7850369",
+      "script_sha256": "9d4fafbd5aa701fd8c5fd6c906da62d80c05b1ae7e86b4386d9840a503321020",
+      "chunk": 100
+    },
+    "runtime": {
+      "python": "3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]",
+      "mdtraj": "1.10.2",
+      "numpy": "2.2.1"
+    },
+    "max_omega_diff_deg": 7.62939404808094e-06,
+    "max_official_fnc_diff": 0.0
+  },
+  "limitations": [
+    "Original raw-coordinate archive not downloaded or replayed in this Work.",
+    "Historical L2 fingerprint omits both imported snapshots, pair CSV and some dependencies. Present source hashes cannot retrospectively fill the gap.",
+    "Historical aggregate all_pass does not require exactly 112 pairs; direct record checks used here."
+  ]
+}

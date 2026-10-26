@@ -1,0 +1,10 @@
+{
+  "FNCSettings": true,
+  "_compute_reference_contacts": true,
+  "_get_aligned_indices": true,
+  "_get_sequence_index_map": true,
+  "_compute_contact_score": true,
+  "get_fnc_from_samples_trajectory": true,
+  "filter_unphysical_traj_masks": true,
+  "_compute_filtered_contacts": true
+}

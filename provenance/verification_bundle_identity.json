@@ -1,0 +1,13 @@
+{
+  "bundle_sha256": "b6ba8ede9c7880823fae1965aaaf122b4da49e06c7c2b4c8d427544823243817",
+  "algorithm": "SHA256 of sorted compact JSON map of relative paths to file SHA256",
+  "files": {
+    "verification/numerics.py": "f5c056e44e885c2b61485d72bb01d69c54d2c60707746d2bb9baabd7b06343a0",
+    "verification/verify.py": "665720543ac8bd5d1fa0b5291715d8c8d5d47cc3cea0ad0cb0a99eb8ffb42e96",
+    "verification/test_numerics.py": "a132ad8c3e413e2203086cb384db3722838b8e7d41ca4cdfacfa8cff5bf5a267",
+    "verification/acceptance_spec.json": "1afb2ffa28b5250b516a63f64e8162ac1524f8ee5cc413d7ca5ffab782e0c2cf",
+    "verification/input_manifest.json": "e58f8e4558fd5e07947dbf23835128e749209f83a74fa000008c6d7d8587cb17"
+  },
+  "public_git_commit": null,
+  "public_tag": null
+}
